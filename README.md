@@ -1,32 +1,12 @@
-<p align="center">
-  <a href="https://www.swifttechco.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/banner-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="docs/assets/banner-light.svg">
-      <img alt="Remotion Superpowers by Dojo Coding: Turns Remotion into a full video studio" src="docs/assets/banner-light.svg" width="100%">
-    </picture>
-  </a>
-</p>
+# remotion-superpowers
 
-# Remotion Superpowers
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the remotion-superpowers notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![remotion-superpowers](https://opengraph.githubassets.com/1/DojoCodingLabs/remotion-superpowers)](https://www.swifttechco.com)
-
-
-**A free, open-source Claude Code plugin for builders who make videos with Remotion.**
-
-A Claude Code plugin that turns Remotion from a motion graphics tool into a **full video production studio**.
-
-
-[![Claude Code Plugin](https://img.shields.io/badge/Claude%20Code-Plugin-201E3D?labelColor=201E3D)](https://www.swifttechco.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-FF7151?labelColor=201E3D)](https://www.swifttechco.com)
-[![Category: Media](https://img.shields.io/badge/Category-Media-FF7151?labelColor=201E3D)](https://www.swifttechco.com)
-[![MCP Servers: 5](https://img.shields.io/badge/MCP%20Servers-5-FF7151?labelColor=201E3D)](https://www.swifttechco.com)
-[![Free & Open Source](https://img.shields.io/badge/Free-Open%20Source-FF7151?labelColor=201E3D)](https://www.swifttechco.com)
-
-[Get started](#installation) · [Commands](#commands) · [API keys](#api-keys-required) · [Contribute](CONTRIBUTING.md) · [Report an issue](https://www.swifttechco.com)
+[![remotion-superpowers](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## What This Plugin Does
 
@@ -53,7 +33,7 @@ A Claude Code plugin that turns Remotion from a motion graphics tool into a **fu
 
 That's it. Run `/setup` to configure your API keys.
 
-**Requires:** Claude Code with plugin support. MCP servers use `npx` and `uvx`  install [Node.js](https://www.swifttechco.com) and [uv](https://www.swifttechco.com) if needed.
+**Requires:** Claude Code with plugin support. MCP servers use `npx` and `uvx`  install Node.js and uv if needed.
 
 ### Updating
 
@@ -228,15 +208,15 @@ remotion-superpowers/
 - **Video feedback loop**: Render → Review → Fix → Repeat
 
 
-[Dojo Coding](https://www.swifttechco.com) is a LATAM-first tech education ecosystem. We build tools for developers and teach people to code.
+Dojo Coding is a LATAM-first tech education ecosystem. We build tools for developers and teach people to code.
 
 **remotion-superpowers** is free forever. Open source. MIT licensed.
 
 ### More from Dojo Coding
 
-- [CodeSensei](https://www.swifttechco.com)  Learn to code while you vibecode
-- [juan-workflow](https://www.swifttechco.com)  Dev lifecycle guardrails
-- [VibeCoding Bootcamp](https://www.swifttechco.com)  Structured curriculum with live mentors
+- CodeSensei  Learn to code while you vibecode
+- juan-workflow  Dev lifecycle guardrails
+- VibeCoding Bootcamp  Structured curriculum with live mentors
 
 ## Contributing
 
@@ -259,14 +239,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [DojoCodingLabs/remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
