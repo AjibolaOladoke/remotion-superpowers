@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![remotion-superpowers](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![remotion-superpowers](images/preview.png)](https://github.com/Swift-Tech-Co/remotion-superpowers)
 
 ## What This Plugin Does
 
@@ -50,7 +50,7 @@ Restart your Claude Code session after updating.
 ### Local Development
 
 ```bash
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/remotion-superpowers
 cd remotion-superpowers
 
 # In Claude Code:
@@ -207,7 +207,6 @@ remotion-superpowers/
 - **Replicate MCP**: 5th MCP server for 100+ AI image/video models
 - **Video feedback loop**: Render → Review → Fix → Repeat
 
-
 Dojo Coding is a LATAM-first tech education ecosystem. We build tools for developers and teach people to code.
 
 **remotion-superpowers** is free forever. Open source. MIT licensed.
@@ -224,9 +223,8 @@ Remotion Superpowers is open source and built to be contributed to. See [CONTRIB
 
 ## License
 
-
 <p align="center">
-  <a href="https://www.swifttechco.com"><img src="docs/assets/dojocoding-mark.png" alt="Dojo Coding" width="48"></a>
+  <a href="https://github.com/Swift-Tech-Co/remotion-superpowers"><img src="docs/assets/dojocoding-mark.png" alt="Dojo Coding" width="48"></a>
 </p>
 
 ---
@@ -243,13 +241,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/remotion-superpowers
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [DojoCodingLabs/remotion-superpowers](https://github.com/DojoCodingLabs/remotion-superpowers) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
